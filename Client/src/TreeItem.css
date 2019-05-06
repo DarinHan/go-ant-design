@@ -1,0 +1,28 @@
+
+.treeitem{
+    display: inline-block;
+    width:100%;
+}
+
+.itemname{
+    display: inline-block;
+}
+
+.itemsize{
+    display: inline-block;
+    text-align: right;
+}
+.size-gb{
+    color: brown;
+    font-weight: 900;
+}
+
+.size-mb{
+    color: chocolate;
+    font-weight: 600;
+}
+
+.size-kb{
+    color: darkgreen;
+    font-weight: 400;
+}
